@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		21102CD32361269200F92A78 /* Task.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21102CD22361269200F92A78 /* Task.swift */; };
 		2189BBCB23580CBB00724425 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2189BBCA23580CBB00724425 /* AppDelegate.swift */; };
 		2189BBCD23580CBB00724425 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2189BBCC23580CBB00724425 /* SceneDelegate.swift */; };
 		2189BBCF23580CBB00724425 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2189BBCE23580CBB00724425 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		21102CD22361269200F92A78 /* Task.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task.swift; sourceTree = "<group>"; };
 		2189BBC723580CBB00724425 /* Night Porter Table View.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Night Porter Table View.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2189BBCA23580CBB00724425 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2189BBCC23580CBB00724425 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				2189BBD323580CBC00724425 /* Assets.xcassets */,
 				2189BBD523580CBC00724425 /* LaunchScreen.storyboard */,
 				2189BBD823580CBC00724425 /* Info.plist */,
+				21102CD22361269200F92A78 /* Task.swift */,
 			);
 			path = "Night Porter Table View";
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				21102CD32361269200F92A78 /* Task.swift in Sources */,
 				2189BBCF23580CBB00724425 /* ViewController.swift in Sources */,
 				2189BBCB23580CBB00724425 /* AppDelegate.swift in Sources */,
 				2189BBCD23580CBB00724425 /* SceneDelegate.swift in Sources */,
